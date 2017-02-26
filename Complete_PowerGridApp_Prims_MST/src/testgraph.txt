@@ -1,0 +1,10 @@
+seattle tacoma 20
+seattle bellevue 15
+bellevue spokane 340
+renton puyallup 20
+spokane renton 300
+seattle puyallup 22
+bellevue renton 5
+hartford chicago  1383
+chicago denver 990
+seattle hartford 3018
