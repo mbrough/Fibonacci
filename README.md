@@ -1,3 +1,2 @@
-# Fibonacci
-Calculate and display the Fibonacci sequence.
-Java
+# Java
+Contains past Java projects.
